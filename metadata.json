@@ -1,0 +1,6 @@
+{
+  "name": "Ultra Video Compressor & Perceptual Enhancer",
+  "description": "High-efficiency video compression engine featuring perceptual noise decoupling, 10-bit color precision, and adaptive edge reconstruction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
